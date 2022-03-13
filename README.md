@@ -1,6 +1,6 @@
 ### Hi there 👋, I am **Anatoly**, a young programmer from the depths of Siberia.
 #### I am junior Python developer 
-![I am junior Python developer ](https://img.freepik.com/free-photo/green-gradient-abstract-background-empty-room-with-space-for-your-text-and-picture_1258-52336.jpg?w=996)
+![I am junior Python developer ]
 
 I study at the Irkutsk National Research Technical University, under the program: Informatics and Computer Engineering - 4th year. I decided to connect my path with the Python programming language. I have been studying it for over a year. And i am studying online courses at the GeekBrains school under the Python Developer program.
 Gained knowledge of working with Linux, delved into the Python language. I studied MySQL and wrote a project on the topic: an online car sales store. Studied the basics of JS.
