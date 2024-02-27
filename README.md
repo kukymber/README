@@ -1,6 +1,6 @@
 ### Hi there 👋, I am **Anatoly**
-#### I am Python developer 
-I study at the Irkutsk National Research Technical University, under the program: Informatics and Computer Engineering. I decided to connect my path with the Python programming language. I have been studying it for over two years.Gained knowledge of working with Linux, delved into the Python language. 
+#### I am Python Backend developer 
+I graduated from the Irkutsk National Research Technical University in the program: Informatics and Computer Engineering. I decided to connect my path with the Python programming language. I've been studying it for over three years.
 
 Skills: Python(SQLAlchemy, Asyncio, Aiogram, Tkinter, Pytesseract, Requests,NumPy), FastAPI / MySQL / Docker / 
 
